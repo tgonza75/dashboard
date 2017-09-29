@@ -22,7 +22,7 @@ result<-Batting%>%
   select(yearID,SO,HR)
 ```
 
-Row {data-height=350}
+Row {data-height=450}
 -----------------------------------------------------------------------
 
 ### Strikeouts vs. Homeruns
